@@ -10,6 +10,8 @@ Sort Python `import`s by module/package name.
 
 Vim's built-in `:sort` is great for alphabetically sorting lines, but the inevitable combination of `import...` and `from...` means you're gonna' have a Bad Time&trade;.
 
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/nkantar)
+
 ## Installation
 
 ### vim-plug
