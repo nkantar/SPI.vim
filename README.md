@@ -33,4 +33,4 @@ Feel free to [create](https://github.com/nkantar/SPI.vim/issues/new 'New Issue')
 
 You can also get in touch via [email :love_letter:](mailto:nik@nkantar.com 'Email me') or [Twitter :bird:](https://twitter.com/nkantar '@nkantar').
 
-Please note that this project is released with a `Contributor Code of Conduct <https://github.com/nkantar/SPI.vim/blob/master/CODE_OF_CONDUCT.md>`_. By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/nkantar/SPI.vim/blob/master/CODE_OF_CONDUCT.md 'SPI.vim Code of Conduct'). By participating in this project you agree to abide by its terms.
