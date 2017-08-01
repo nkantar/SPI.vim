@@ -26,3 +26,11 @@ Plug 'nkantar/SPI.vim'
 " select some import lines
 :SPI
 ```
+
+## Contributing
+
+Feel free to [create](https://github.com/nkantar/SPI.vim/issues/new 'New Issue') and [tackle](https://github.com/nkantar/SPI.vim/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22 'Help Wanted') issues. No, there are no templates at this moment... :smirk:
+
+You can also get in touch via [email :love_letter:](mailto:nik@nkantar.com 'Email me') or [Twitter :bird:](https://twitter.com/nkantar '@nkantar').
+
+Please note that this project is released with a `Contributor Code of Conduct <https://github.com/nkantar/SPI.vim/blob/master/CODE_OF_CONDUCT.md>`_. By participating in this project you agree to abide by its terms.
