@@ -3,8 +3,11 @@
 
 ## [Unreleased]
 
+### Changed
+- Added release dates to the changelog.
 
-## [1.0.2]
+
+## [1.0.2] - 2017-07-31
 
 ### Added
 - Changelog
@@ -15,13 +18,13 @@
 - Reworded GitHub issue template a bit.
 
 
-## [1.0.1]
+## [1.0.1] - 2017-06-02
 
 ### Added
 - SayThanks.io badge to README
 
 
-## [1.0.0]
+## [1.0.0] - 2017-04-20
 
 ### Added
 - Stuff works
